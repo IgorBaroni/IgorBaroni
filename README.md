@@ -18,8 +18,8 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/756945777036886107/956289786094698526/ezgif-1-6b66c33f0d.gif">
   
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/756945777036886107/956290957043699762/gif2.gif">
   
   
 </div>
