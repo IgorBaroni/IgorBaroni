@@ -5,6 +5,7 @@
 - 👨🏻‍🎓 I’m currently a student
 - 🌱 I’m currently learning HTML, CSS, JS, PHP and C#
 - 😄 Pronouns: he/him
+- ⚡ Fun Fact: I love to play games 😅
 
 <div align="center">
   <a href="https://github.com/IgorBaroni">
