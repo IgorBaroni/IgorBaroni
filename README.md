@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/IgorBaroni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBaroni&layout=compact&langs_count=7&theme=dark"/>
-    <img align="right" alt="samurai-pic" height="408px" width="326px" style="border-radius:50px;" src="https://media.discordapp.net/attachments/756945777036886107/956298716896198716/gif1.gif?width=326&height=408"> 
+  
     
 </div>
 <div style="display: inline_block"><br>
