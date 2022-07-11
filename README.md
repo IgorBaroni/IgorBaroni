@@ -1,9 +1,4 @@
-## Hey there 👋 
-
-
-- 🇧🇷 My name is Igor and I'm from Brazil 
-- 😄 Pronouns: he/him
-- 👨🏻‍🎓 I’m currently a student
+- 👨🏻‍🎓 I’m a student
 - 🌱 I’m currently learning HTML, CSS, JS, PHP and C#
 
 
