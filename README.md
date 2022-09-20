@@ -1,5 +1,5 @@
 - 👨🏻‍🎓 I’m a student
-- 🌱 I’m currently learning HTML, CSS, JS, PHP and C#
+- 🌱 I’m currently studying HTML, CSS, JS, PHP and C#
 
 
 <div align="center">
