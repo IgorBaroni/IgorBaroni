@@ -1,6 +1,7 @@
  ## Olá! Meu nome é Igor
  
 <div align="center">  
+  ## Olá! Meu nome é Igor
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dracula&card_width=700)](https://github.com/IgorBaroni/github-readme-stats)
  
