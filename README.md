@@ -1,6 +1,8 @@
  ## Olá! Meu nome é Igor
  <div style="display: center">
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)](https://github.com/IgorBaroni/github-readme-stats)
+ 
 </div>
 
  <div style="display: inline_block">
