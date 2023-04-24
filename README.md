@@ -1,10 +1,7 @@
  ## Olá! Meu nome é Igor
  
-<div align="center">  
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)](https://github.com/IgorBaroni/github-readme-stats)
-</div>
- 
+
 
  <div style="display: inline_block">
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
