@@ -2,7 +2,7 @@
  
 <div align="center">  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)](https://github.com/IgorBaroni/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dracula)](https://github.com/IgorBaroni/github-readme-stats)
  
 </div>
 
