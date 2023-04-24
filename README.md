@@ -1,9 +1,8 @@
  ## Olá! Meu nome é Igor
  
 <div align="center">  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorBaroni&show_icons=true&theme=radical)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/IgorBaroni/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)](https://github.com/IgorBaroni/github-readme-stats)
 </div>
  
 
