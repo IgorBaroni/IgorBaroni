@@ -1,4 +1,4 @@
- ## Olá! Meu nome é Igor
+ ## Hello! I'm Igor
  
 <div align="center">  
  
