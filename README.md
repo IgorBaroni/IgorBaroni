@@ -11,7 +11,7 @@
 ## Technologies
   <div align="center">
        
-   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,py,mysql,git,postman&theme=dark&perline=5)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,tailwind,jest,py,mysql,git,postman&theme=dark&perline=5)](https://skillicons.dev)
   </div>
     
 ## GitHub Stats
